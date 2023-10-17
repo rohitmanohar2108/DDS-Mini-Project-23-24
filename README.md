@@ -16,4 +16,3 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 > Automatic Night Light [(Detail)]()
 
 > T12 - Enhanced Security Locking System [(Detail)]() 
-
