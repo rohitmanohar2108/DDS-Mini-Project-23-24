@@ -7,7 +7,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 > T4 - Agri Rain Alarm System [(Detail)]()
 
-> End-To-End Encrypted Communication [(Detail)]()
+> End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main)
 
 > T2 - Smart Bicycle [(Detail)]()
 
