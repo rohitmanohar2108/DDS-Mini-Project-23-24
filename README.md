@@ -3,7 +3,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 ## List:
 
-> Automatic Visitor Counter [(Detail)](https://github.com/brcnitk/DDS-Mini-Project-23-24/tree/main/Team-2)
+> Automatic Visitor Counter [(Detail)](https://github.com/brcnitk/DDS-Mini-Project-23-24/tree/main/Team-2) 
 
 > Agri Rain Alarm System [(Detail)]()
 
