@@ -6,9 +6,14 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | List-1 | List-2 |
 | --- | --- |
 | T1 - [(Detail)]() | T1 - [(Detail)]() |
-| T2 - Smart Bicycle [(Detail)]() | T2 - Smart Bicycle [(Detail)]() |
+| T2 - [(Detail)]() | T1 - [(Detail)]() |
+| T3 - [(Detail)]() | T1 - [(Detail)]() |
+| T4 - [(Detail)]() | T1 - [(Detail)]() |
+| T5 - [(Detail)]() | T1 - [(Detail)]() |
+| T7 - [(Detail)]() | T1 - [(Detail)]() |
+| T8 - Smart Bicycle [(Detail)]() | T2 - Smart Bicycle [(Detail)]() |
 | T9 - [(Detail)]() | T12 - Enhanced Security Locking System [(Detail)]() |
-| T9 - [(Detail)]() | End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main) |
+| T10 - [(Detail)]() | End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main) |
 
 
 > T1 - [(Detail)]()
