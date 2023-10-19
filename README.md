@@ -37,9 +37,9 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 > T23 - LED Catcher - A Game of Reflexes [(Detail)]()
 
-| Command | Description |
+| List-1 | List-2 |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| T9 - [(Detail)]() | T12 - Enhanced Security Locking System [(Detail)]() |
+| T9 - [(Detail)]() | End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main) |
 
  
