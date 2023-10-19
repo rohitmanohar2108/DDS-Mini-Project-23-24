@@ -3,7 +3,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 ## List:
 
-> T1 - [(Detail)]()              
+> T1 - [(Detail)]()
 |
 > T5 - [(Detail)]()
 
