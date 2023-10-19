@@ -3,11 +3,19 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 ## List:
 
+| List-1 | List-2 |
+| --- | --- |
+| T1 - [(Detail)]() | T1 - [(Detail)]() |
+| T2 - Smart Bicycle [(Detail)]() | T2 - Smart Bicycle [(Detail)]() |
+| T9 - [(Detail)]() | T12 - Enhanced Security Locking System [(Detail)]() |
+| T9 - [(Detail)]() | End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main) |
+
+
 > T1 - [(Detail)]()
 |
 > T5 - [(Detail)]()
 
-> T2 - Smart Bicycle [(Detail)]()
+> 
 |
 > T3 - [(Detail)]()
 
@@ -37,9 +45,6 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 > T23 - LED Catcher - A Game of Reflexes [(Detail)]()
 
-| List-1 | List-2 |
-| --- | --- |
-| T9 - [(Detail)]() | T12 - Enhanced Security Locking System [(Detail)]() |
-| T9 - [(Detail)]() | End-To-End Encrypted Communication [(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/tree/main) |
+
 
  
