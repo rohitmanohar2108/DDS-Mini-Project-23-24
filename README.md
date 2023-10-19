@@ -8,7 +8,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 > T5 - [(Detail)]()
 
 > T2 - Smart Bicycle [(Detail)]()
-
+|
 > T3 - [(Detail)]()
 
 > T4 - Agri Rain Alarm System [(Detail)]()
