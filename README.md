@@ -37,4 +37,9 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 > T23 - LED Catcher - A Game of Reflexes [(Detail)]()
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
  
