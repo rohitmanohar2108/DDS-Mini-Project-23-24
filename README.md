@@ -25,6 +25,6 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 18 | Small Scale DES Algorithm [(Detail)]() | [(Detail)]() |
 | 19 | Water Level Indicator [(Detail)]() | [(Detail)]() |
 | 20 | Automated Sensory Based Waste Segregation System [(Detail)]() | [(Detail)]() |
-| 21 | Digital Combination Lock [(Detail)]() | [(Detail)]() |
+| 21 | Digital Combination Lock [(Detail)]() | Smart Ring with Body Vital Sensors [(Detail)]() |
 | 22 | Traffic Light Controller: Intersection of a busy road and a street road) [(Detail)]() | [(Detail)]() |
 | 23 | LED Catcher - A Game of Reflexes [(Detail)]() | [(Detail)]() |
