@@ -19,9 +19,9 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 12 | Enhanced Security Locking System [(Detail)]() | [(Detail)]() |
 | 13 | [(Detail)]() | [(Detail)]() |
 | 14 | Automatic Night Light [(Detail)]() | [(Detail)]() |
-| 15 | [(Detail)]() | [(Detail)]() |
+| 15 | Vacant Parking SLot Detector [(Detail)]() | [(Detail)]() |
 | 16 | [(Detail)]() | [(Detail)]() |
-| 17 | [(Detail)]() | [(Detail)]() |
+| 17 | Railway Traffic Management [(Detail)]() | [(Detail)]() |
 | 18 | Small Scale DES Algorithm [(Detail)]() | [(Detail)]() |
 | 19 | Water Level Indicator [(Detail)]() | [(Detail)]() |
 | 20 | Automated Sensory Based Waste Segregation System [(Detail)]() | [(Detail)]() |
