@@ -13,7 +13,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 6 | Line Following Maze Solver [(Detail)]() | Vending Machine for cold and Hot beverages [(Detail)]() |
 | 7 | Secure Vote: Digital Voting Mechine [(Detail)]() | eX_Calci [(Detail)]() |
 | 8 | Automatic Visitor Counter [(Detail)](https://github.com/brcnitk/DDS-Mini-Project-23-24/tree/main/Team-2) | Smart Home Energy Monitoring and Mangement System [(Detail)]() |
-| 9 | Parking Management System [(Detail)]() | [(Detail)]() |
+| 9 | Parking Management System [(Detail)]() | Automated Reception Desk for Hospitals [(Detail)]() |
 | 10 | Memory Game [(Detail)]() | Guaranteed Profits with Arbitrage Betting [(Detail)]() |
 | 11 | [(Detail)]() | Text to Braille Converter [(Detail)]() |
 | 12 | Enhanced Security Locking System [(Detail)]() | Auto Sensing Fire Extinguishe [(Detail)]() |
