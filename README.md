@@ -3,7 +3,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 ## List:
 
-| Sl. No. | List-1 | List-2 |
+| Sl. No. | Title | Title |
 | --- | --- | --- |
 | 1 | [(Detail)]() | [(Detail)]() |
 | 2 | Smart Bicycle [(Detail)]() | [(Detail)]() |
