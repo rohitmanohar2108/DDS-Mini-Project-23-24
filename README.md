@@ -26,5 +26,5 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 19 | [(Detail)]() | [(Detail)]() |
 | 20 | [(Detail)]() | [(Detail)]() |
 | 21 | [(Detail)]() | [(Detail)]() |
-| 22 | [(Detail)]() | [(Detail)]() |
+| 22 | Traffic Light Controller: Intersection of a busy road and a street road) [(Detail)]() | [(Detail)]() |
 | 23 | LED Catcher - A Game of Reflexes [(Detail)]() | [(Detail)]() |
