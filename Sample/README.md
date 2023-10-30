@@ -33,7 +33,7 @@
 </details>
 
 <!-- Fourth Section -->
-## Circuit Diagram
+## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
 
