@@ -21,7 +21,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 14 | Automatic Night Light [(Detail)]() | Patient Friendly Medication Digital Reminder System [(Detail)]() |
 | 15 | Vacant Parking SLot Detector [(Detail)]() | Stuck At Fault of 3 Input Even [(Detail)]() |
 | 16 | Dual Dice Game [(Detail)]() | Optimum room temperature regulator [(Detail)]() |
-| 17 | Railway Traffic Management [(Detail)]() |  Binary Arcade Game [(Detail)]() |
+| 17 | Railway Traffic Management [(Detail)]() |  Binary Arcade: A Digital Binary Game [(Detail)](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/invitations) |
 | 18 | Small Scale DES Algorithm [(Detail)]() | Smart Home Automation System [(Detail)](https://github.com/Abhishekkk18/S2-T18-Mini-Project/invitations) |
 | 19 | Water Level Indicator [(Detail)]() | The Chess Clock [(Detail)]() |
 | 20 | Automated Sensory Based Waste Segregation System [(Detail)](https://github.com/arjun-vegeta/T20_DDS-mini-project/invitations) | Hydrosure [(Detail)]() |
