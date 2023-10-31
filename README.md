@@ -9,7 +9,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | 2 | Smart Bicycle [(Detail)]() | Heatwatch: Temperature Monitoring System [(Detail)]() |
 | 3 | [(Detail)]() | Braille-to-Audio Converter [(Detail)]() |
 | 4 | Agri Rain Alarm System [(Detail)]() | Automated Braking System [(Detail)]() |
-| 5 | TrainGuard: Empowering Ticket Collectors with Smart Passenger Monitoring [(Detail)]() | Tic Tac Toe Game [(Detail)]() |
+| 5 | TrainGuard: Empowering Ticket Collectors with Smart Passenger Monitoring [(Detail)](https://github.com/harsh232gupta/-DDS-Mini-Project--TrainGuard/invitations) | Tic Tac Toe Game [(Detail)]() |
 | 6 | Line Following Maze Solver [(Detail)]() | Vending Machine for cold and Hot beverages [(Detail)]() |
 | 7 | Secure Vote: Digital Voting Mechine [(Detail)]() | eX_Calci [(Detail)]() |
 | 8 | Automatic Visitor Counter [(Detail)](https://github.com/brcnitk/DDS-Mini-Project-23-24/tree/main/Team-2) | Smart Home Energy Monitoring and Mangement System [(Detail)]() |
