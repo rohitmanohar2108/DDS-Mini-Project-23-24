@@ -5,7 +5,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 | Sl. No. | Title | Title |
 | :---: | --- | --- |
-| 1 | [(Detail)]() | Universal Asynchronous Receiver-Transmitter [(Detail)]() |
+| 1 | Hello [(Detail)](https://github.com/harsh232gupta/-DDS-Mini-Project--TrainGuard/invitations) | Universal Asynchronous Receiver-Transmitter [(Detail)]() |
 | 2 | Smart Bicycle [(Detail)]() | Heatwatch: Temperature Monitoring System [(Detail)]() |
 | 3 | [(Detail)]() | Braille-to-Audio Converter [(Detail)]() |
 | 4 | Agri Rain Alarm System [(Detail)]() | Automated Braking System [(Detail)]() |
