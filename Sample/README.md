@@ -48,12 +48,5 @@
   > Neatly update the Verilog code in code style only.
 </details>
 
-<!-- Sixth Section -->
-## Verilog Code
-<details>
-  <summary>Detail</summary>
-
-  > Update ~5 references in order
-</details>
 
 
