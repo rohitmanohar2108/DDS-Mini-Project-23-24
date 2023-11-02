@@ -5,7 +5,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 
 | Sl. No. | Title | Title |
 | :---: | --- | --- |
-| 1 | Hello [(Detail)](https://github.com/KrishnaBhargavN/Uart/invitations) | Universal Asynchronous Receiver-Transmitter [(Detail)](https://github.com/KrishnaBhargavN/Uart/invitations) |
+| 1 | [(Detail)]() | Universal Asynchronous Receiver-Transmitter [(Detail)](https://github.com/KrishnaBhargavN/Uart/invitations) |
 | 2 | Smart Bicycle [(Detail)](https://github.com/AmruthSD/Smart-Bicycle/invitations) | Heatwatch: Temperature Monitoring System [(Detail)](https://github.com/ANSHVIVEKMALHOTRA/Miniproject-HEATWATCH/invitations) |
 | 3 | [(Detail)]() | Braille-to-Audio Converter [(Detail)]() |
 | 4 | Agri Rain Alarm System [(Detail)]() | Automated Braking System [(Detail)](https://github.com/Poorvab2525/Team-4/invitations) |
